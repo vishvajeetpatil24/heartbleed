@@ -1,15 +1,15 @@
 {
   "name": "heartwish",
-  "version": "0.2.7",
-  "description": "Extract server's private key using Heartbleed",
+  "version": "0.2.9",
+  "description": "Extract The Data",
   "repository": {
     "type": "git",
     "url": "git://github.com/vishvajeetpatil24/heartbleed"
   },
   "bin": {
-    "heartbleed": "heartbleed.js"
+    "heartwish": "heartbleed.js"
   },
-  "main": "heartbleed.js",
+  "main": "heartwish",
   "author": "Skycrept Unknown Wing",
   "license": "MIT",
   "dependencies": {
